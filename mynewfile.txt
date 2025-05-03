@@ -1,0 +1,4 @@
+Learning sql with python
+ it allows us to connectwith the database
+ it allows objectLets learn something today
+ testing append method
